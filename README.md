@@ -47,7 +47,7 @@ All of the annotations are saved in a local directory `~/.fermatslastmargin/loca
 - zlib (apt install zlib1g-dev)
 ## Dependencies when building from source
 - cabal 2.4 - if you get "cabal: fermatslastmargin.cabal:14: Parse of field 'build-depends' failed." you need to upgrade with "cabal install Cabal"
-- GHC 8.6 (at least, that's all I've tried)
+- GHC 8.8 
 
 ## Mac
 - brew install poppler
